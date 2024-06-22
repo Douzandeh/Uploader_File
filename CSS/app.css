@@ -30,3 +30,36 @@ body {
   font-size: 1.5rem;
   font-weight: 600;
 }
+
+.list_upload {
+  margin: 2rem 0;
+}
+
+.list_upload li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.info_file {
+  width: 70%;
+}
+
+.title_file {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title_file span:first-child {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.6rem;
+}
+
+.color_5a81da{
+  color: #5a81da;
+}
+.color_a4bffc{
+  color: #a4bffc;
+}
